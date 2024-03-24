@@ -45,6 +45,9 @@ bin/
 .idea
 gradlew.bat
 gradlew
-settings.grad
+*settings.gradle
+gradlew.bat
+*gradlew
+settings.gradle
 .idea/
 .idea/*
